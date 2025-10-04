@@ -1,16 +1,25 @@
-# notes_app
+## 📝 Notes App
 
-A new Flutter project.
+A simple and lightweight Notes App built with Flutter and Sqflite for local storage.
+Users can create, edit, delete, and organize their notes with an easy-to-use interface.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- Add, edit, and delete notes
 
-A few resources to get you started if this is your first Flutter project:
+- Local offline storage using SQLite (sqflite)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Clean and responsive UI with Flutter
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Fast and reliable data access
+
+## Tech Stack
+
+Flutter – Cross-platform UI framework
+
+Sqflite – Local database for persistent storage
+
+This project demonstrates integrating a local database in Flutter and building a smooth note-taking experience.
+
+
+
