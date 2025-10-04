@@ -1,4 +1,4 @@
-## 📝 Notes App
+## Notes App
 
 A simple and lightweight Notes App built with Flutter and Sqflite for local storage.
 Users can create, edit, delete, and organize their notes with an easy-to-use interface.
